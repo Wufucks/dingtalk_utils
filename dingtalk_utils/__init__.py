@@ -1,2 +1,4 @@
 __name__ = 'dingtalk_utils'
-__version__ = '0.1.0'
+
+from dingtalk_utils.client import CorpClient, UserClient
+from dingtalk_utils.contacts import ContactsApi

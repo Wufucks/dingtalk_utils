@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="dingtalk_utils",
-    version="1.0.1",
+    version="1.0.3",
     author="hzIsFoodDesert",
     author_email="w18664144718@live.com",
     description="钉钉API",

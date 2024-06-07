@@ -69,4 +69,3 @@ class ContactsApi(object):
             "userid": userid
         }).json()
         return resp
-
